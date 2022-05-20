@@ -6,9 +6,9 @@ Web Developer and Designer
 
 I'm a creative software engineer with a passion for design. I love creating unique web based experiences that level up your presence in the digital realms.
 
-* 🌍  I'm based in Boulder, CO
-* ✉️  You can contact me at [annierae.elizabeth@gmail.com](mailto:annierae.elizabeth@gmail.com)
-* 🤝  I'm open to collaborating on front end design or development projects.
+* 🌍  I'm based in Boulder, CO
+* ✉️  You can contact me at [annierae.elizabeth@gmail.com](mailto:annierae.elizabeth@gmail.com)
+* 🤝  I'm open to collaborating on front end design or development projects.
 
 ### Skills
 
@@ -37,9 +37,11 @@ I'm a creative software engineer with a passion for design. I love creating uniq
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AnnieRae1111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dharma_designs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/annierae-cioccolanti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AnnieRae1111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
