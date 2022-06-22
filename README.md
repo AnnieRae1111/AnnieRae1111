@@ -8,7 +8,7 @@ I'm a creative software engineer with a passion for design. I love creating uniq
 
 * 🌍  I'm based in Boulder, CO
 * ✉️  You can contact me at [annierae.elizabeth@gmail.com](mailto:annierae.elizabeth@gmail.com)
-* 🤝  I'm open to collaborating on front end design or development projects.
+* 🤝  I'm open to collaborating on frontend design or development projects.
 
 ### Skills
 
