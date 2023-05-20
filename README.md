@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I'm a creative software engineer with a passion for design. I love creating unique web based experiences that level up your presence in the digital realms.
 
-* 🌍  I'm based in Boulder, CO
+* 🌍  I'm based in Denver, CO
 * ✉️  You can contact me at [annierae.elizabeth@gmail.com](mailto:annierae.elizabeth@gmail.com)
 * 🤝  I'm open to collaborating on frontend design or development projects.
 
